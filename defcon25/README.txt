@@ -13,5 +13,13 @@ Reverse Engineering 101
 @malwareunicorn
 https://securedorg.github.io/RE101/
 
+## Capture the Flag Resources
+
+CTF Learn
+https://ctflearn.com/index.php
+
+Hack This Site
+https://www.hackthissite.org/info/about
+
 
 
